@@ -30,6 +30,7 @@ spam-ham-detection/
 ├── spam_ham_app.py
 ├── model.pkl
 ├── requirements.txt
+├── .gitignore
 ├── README.md
 └── screenshots/
 ```
