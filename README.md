@@ -1,5 +1,4 @@
-# spam-or-ham-ai
-# Spam–Ham Detection System
+# Spam-or-Ham-AI
 
 ## Project Overview
 
