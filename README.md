@@ -26,12 +26,11 @@ The Spam–Ham Detection System is a machine learning project that classifies te
 
 ```text
 spam-ham-detection/
-├── train_model.py
+├── spam_ham_code.py
 ├── spam_ham_app.py
-├── spam_model.pkl
+├── model.pkl
 ├── requirements.txt
 ├── README.md
-├── .gitignore
 └── screenshots/
 ```
 
