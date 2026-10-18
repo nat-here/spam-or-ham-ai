@@ -101,13 +101,9 @@ Example:
 
 - Improve model accuracy with additional training data.
 - Evaluate the model using appropriate classification metrics.
-- Deploy the application online.
 - Enhance the interface and display prediction confidence when supported by the model.
 
 ## Author
 
-Your Name
+Nathiyashree
 
-## License
-
-Add a suitable license if you intend to distribute the project for reuse.
