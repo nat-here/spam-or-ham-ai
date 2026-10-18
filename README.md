@@ -37,25 +37,22 @@ spam-ham-detection/
 ## How to Run Locally
 1. Clone the repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd spam-ham-detection
+git clone YOUR_REPOSITORY_URL
+cd spam-or-ham-ai
 
 2. Install dependencies
 
 python -m pip install -r requirements.txt
 
-3. Train the model (if required)
+3. Train the model
 
-python train_model.py
+python spam_ham_code.py
 
-Make sure the training script generates the model file expected by the application.
-4. Run the application
+This generates model.pkl, provided the training script completes successfully.
+
+4. Launch the application
 
 python -m streamlit run spam_ham_app.py
-
-The application will open in your browser.
-
-
 
 ## Challenges Faced
 
