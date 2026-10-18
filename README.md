@@ -33,6 +33,27 @@ spam-ham-detection/
 ├── README.md
 └── screenshots/
 ```
+## How to Run Locally
+1. Clone the repository
+
+git clone YOUR_GITHUB_REPOSITORY_URL
+cd spam-ham-detection
+
+2. Install dependencies
+
+python -m pip install -r requirements.txt
+
+3. Train the model (if required)
+
+python train_model.py
+
+Make sure the training script generates the model file expected by the application.
+4. Run the application
+
+python -m streamlit run spam_ham_app.py
+
+The application will open in your browser.
+
 
 
 ## Challenges Faced
