@@ -25,7 +25,7 @@ The Spam–Ham Detection System is a machine learning project that classifies te
 ## Project Structure
 
 ```text
-spam-ham-detection/
+spam-or-ham-ai/
 ├── spam_ham_code.py
 ├── spam_ham_app.py
 ├── model.pkl
