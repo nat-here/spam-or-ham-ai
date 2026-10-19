@@ -54,6 +54,10 @@ This generates model.pkl, provided the training script completes successfully.
 
 python -m streamlit run spam_ham_app.py
 
+## Streamlit link
+
+https://spam-or-ham-ai.streamlit.app/
+
 ## Challenges Faced
 
 - Loading the trained model correctly in the application.
